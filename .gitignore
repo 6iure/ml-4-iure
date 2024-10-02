@@ -1,0 +1,5 @@
+# Para ignorar os arquivos muito grandes de dados.
+
+*data/
+data/
+/data/
